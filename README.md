@@ -1,5 +1,4 @@
 # Controles-DatePicker-y-ColorPicker
-TAREA DE CONTROLES
 ![image](https://github.com/ANA-ZAMBRANO/Controles-DatePicker-y-ColorPicker/assets/169195758/f3570898-4cd6-417f-93b1-ce08ea8d4513)
 ![image](https://github.com/ANA-ZAMBRANO/Controles-DatePicker-y-ColorPicker/assets/169195758/336c2a58-2435-43ca-9137-28664c991a87)
 ![image](https://github.com/ANA-ZAMBRANO/Controles-DatePicker-y-ColorPicker/assets/169195758/6075ca3b-e81b-4f9e-a8bd-8b2b05597670)
@@ -8,10 +7,13 @@ TAREA DE CONTROLES
 
 1.DatePicker y ColorPicker
 Los controles DatePicker y ColorPicker de JavaFX permiten a los usuarios seleccionar una fecha y un color.
+
 2.Button
 Para que los usuarios confirmen sus selecciones de fecha y color, se agregó un botón ("Confirmar").
+
 3.Label
 Se incluyen etiquetas descriptivas ("Selecciona una fecha:" y "Selecciona un color:") para indicar a los usuarios qué acción deben realizar con cada control.
+
 4.VBox Layout
 El diseño de VBox permite organizar los controles en la interfaz gráfica de usuario de manera ordenada y vertical.
 	Acción al Presionar el Botón
